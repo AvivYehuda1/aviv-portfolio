@@ -29,7 +29,7 @@ This site showcases selected projects, skills, and my background as a Mathematic
 
 - **Foreground Segmentation & Poisson Blending**  
   Image processing project using GrabCut and seamless compositing  
-  [GitHub](https://github.com/AvivYehuda1)
+ [GitHub](https://github.com/AvivYehuda1/GrabCut-and-Poisson-blending)
 
 ---
 
