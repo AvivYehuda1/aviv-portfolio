@@ -1,0 +1,123 @@
+/* === Import Google Font === */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;800&display=swap');
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400;
+  background-color: #f9f9f9;
+  color: #222;
+}
+
+.catchphrase {
+  color: #4CAF50;
+}
+
+.btn-primary {
+  background-color: #4CAF50;
+  border-color: #4CAF50;
+  color: white;
+  border-radius: 30px;
+  padding: 10px 20px;
+}
+
+.btn-primary:hover {
+  background-color: #43a047;
+  border-color: #43a047;
+  color: white;
+}
+
+.text-bg-dark, .navbar, .footer-jumbotron {
+  background-color: #101B1E !important;
+  color: #f0f0f0;
+}
+
+.navbar .nav-link,
+.footer a,
+.footer p {
+  color: #f0f0f0 !important;
+  text-decoration: none;
+}
+
+/* ===== Compact My Skills ===== */
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 8px;
+  margin-top: 20px;
+}
+
+.skill {
+  border: 2px solid #4CAF50;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+  border-radius: 12px;
+  transition: transform 0.15s ease-in-out, background-color 0.2s;
+  flex: 0 0 auto;
+  max-width: fit-content;
+}
+
+.skill:hover {
+  background-color: #e8f5e9;
+  transform: translateY(-2px);
+}
+
+.skill img {
+  background-color: #f4f4f4;
+  padding: 3px;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  margin-right: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.text-container h3 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 0;
+  color: #333;
+  white-space: nowrap;
+}
+
+#Briefly h1,
+#projects h1,
+.skills-title {
+  font-weight: 800;
+  font-size: 2rem;
+  letter-spacing: 0.5px;
+  color: #101B1E;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card {
+  height: 100%;
+}
+
+.carousel-inner {
+  height: 200px;
+}
+
+.carousel-inner img {
+  height: 200px;
+  object-fit: contain;
+}
+
+#Contact-me {
+  background-color: #ffffff;
+  color: #222;
+}
+
+.footer-jumbotron {
+  background-color: #101B1E;
+}
+
+.carousel-indicators {
+  display: none;
+}
