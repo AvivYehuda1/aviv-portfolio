@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This site showcases selected projects, skills, and my background as a Mathematics and Computer Science graduate from Tel Aviv University. It reflects my passion for crafting smart algorithms, clean design, and connecting technology with real-world impact.
 
 ## 🌐 Live Demo
-[👉 View Portfolio Website]((https://avivyehuda1.github.io/aviv-portfolio/))
+[👉 View Portfolio Website](https://avivyehuda1.github.io/aviv-portfolio/)
 
 ---
 
