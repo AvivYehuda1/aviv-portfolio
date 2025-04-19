@@ -43,5 +43,5 @@ I’m currently learning **Node.js** and **React**, and exploring how to combine
 ## 📩 Contact
 
 - **Email:** avivty66@gmail.com  
-- **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/avivyehuda/)] 
+- **LinkedIn:** [[linkedin.com/in/avivyehuda](https://www.linkedin.com/in/avivyehuda/)] 
 - **GitHub:** [github.com/AvivYehuda1](https://github.com/AvivYehuda1)
