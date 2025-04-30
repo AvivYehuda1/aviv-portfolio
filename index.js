@@ -11,7 +11,7 @@ $(document).ready(function () {
 
   $(".Whatsapp").click(function () {
     // Default WhatsApp placeholder
-    window.open("wa.link/lfcne3", "_blank");
+    window.open("https://wa.link/xzik07", "_blank");
   });
 
   $(".Github").click(function () {
